@@ -17,3 +17,5 @@ Update 	| `PUT/PATCH`   | Updates an existing resource
 Delete 	| `DELETE` 	    | Deletes a resource   
 
 [HTTP status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)  
+
+[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)  
