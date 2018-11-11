@@ -14,4 +14,6 @@ Action 	| HTTP Method	| Definition
 Create 	| `POST` 	    | Creates a new resource  
 Read 	| `GET` 	    | Retrieves a resource   
 Update 	| `PUT/PATCH`   | Updates an existing resource  
-Delete 	| `DELETE` 	    | Deletes a resource  
+Delete 	| `DELETE` 	    | Deletes a resource   
+
+[HTTP status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)  
